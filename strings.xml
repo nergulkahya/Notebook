@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Not Defterim</string>
+    <string name="have_account">Giriş Yap</string>
+    <string name="create_new_account">Kayıt Ol</string>
+    <string name="Şifre">Şifre:</string>
+    <string name="edit_text_here">Metni buraya girin</string>
+    <string name="save">Kaydet</string>
+    <string name="toast_cont_save">Not başarı ile kayıt edildi</string>
+</resources>
